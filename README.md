@@ -1,6 +1,6 @@
 # Classify-song-genres-from-audio-data
 
-Topic : Machine Learning\
+Topic : Machine Learning\\
 Programming language : Python\
 Algorithms used : Principal Component Analysis, Logistic Regression, Decision Trees\
 
